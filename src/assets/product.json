@@ -1,0 +1,388 @@
+[
+    {
+      "id": 1,
+      "title": "Hydrating Face Cream",
+      "price": 29.99,
+      "description": "A rich, moisturizing cream that hydrates and revitalizes the skin.",
+      "category": "Face Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/358571/good-vibes-de-tan-glow-ubtan-day-cream-with-spf-30-80g-gt_11_display_1712220032_9aacb610.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Revitalizing Serum",
+      "price": 49.99,
+      "description": "An advanced serum designed to rejuvenate and brighten your skin.",
+      "category": "Face Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-Best_seller_700x700base_gUMVzNGWt_.png,lfo-top_right,l-end,dpr-2/static/img/product/336227/streax-professional-vitariche-gloss-hair-serum-45-ml-19_1_display_1709547331_3314307e.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 95
+      }
+    },
+    {
+      "id": 3,
+      "title": "Nourishing Lip Balm",
+      "price": 9.99,
+      "description": "A hydrating lip balm that provides long-lasting moisture.",
+      "category": "Lip Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/358898/good-vibes-plumping-lip-balm-beetroot-5-5g_8_display_1721729286_117f8ab1.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 230
+      }
+    },
+    {
+      "id": 4,
+      "title": "Mattifying Primer",
+      "price": 19.99,
+      "description": "A primer that controls shine and prepares the skin for makeup application.",
+      "category": "Face Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/374216/lakme-unreal-blurfect-primer-mattifies-and-blurs-pores-30ml_1_display_1709294208_c8fafcef.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 150
+      }
+    },
+    {
+      "id": 5,
+      "title": "Luxury Mascara",
+      "price": 24.99,
+      "description": "A mascara that lengthens and volumizes your lashes for a dramatic look.",
+      "category": "Eye Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-Best_seller_700x700base_gUMVzNGWt_.png,lfo-top_right,l-end,dpr-2/static/img/product/373264/maybelline-the-colossal-volum-express-waterproof-mascara-01-46_7_display_1668754513_27dc93b1.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 200
+      }
+    },
+    {
+      "id": 6,
+      "title": "Soothing Face Mask",
+      "price": 14.99,
+      "description": "A calming face mask that soothes and hydrates stressed skin.",
+      "category": "Face Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/372324/alps-goodness-brightening-beetroot-twin-pack-i-pure-and-100-percentage-natural-i-chukandar-powder-for-healthy-hair-growth-and-skin-care-2-x-50g_1_display_1704196743_33ee9bcf.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 110
+      }
+    },
+    {
+      "id": 7,
+      "title": "Anti-Aging Cream",
+      "price": 59.99,
+      "description": "An intensive cream that helps reduce the appearance of fine lines and wrinkles.",
+      "category": "Face Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/325051/biotique-saffron-youth-anti-ageing-cream-50gm_1_display_1665560887_33597bfe.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 85
+      }
+    },
+    {
+      "id": 8,
+      "title": "Colorful Eyeshadow Palette",
+      "price": 34.99,
+      "description": "A palette with a range of vibrant shades to create endless eye looks.",
+      "category": "Eye Makeup",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/363375/bella-voste-professional-eyeshadow-12-in-1-mesmerizing-colors-palette-nude-matte-shimmer-rich-colour-high-pigmentation-bves104-15-g_1_display_1693390595_f2a9fe81.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 175
+      }
+    },
+    {
+      "id": 9,
+      "title": "Long-Wear Foundation",
+      "price": 39.99,
+      "description": "A foundation that provides full coverage and lasts all day.",
+      "category": "Face Makeup",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/368591/faces-canada-waterproof-fix-and-finish-kit-1_9_display_1722678334_e350e8b7.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 140
+      }
+    },
+    {
+      "id": 10,
+      "title": "Revitalizing Night Cream",
+      "price": 34.99,
+      "description": "A rich night cream that helps rejuvenate your skin while you sleep.",
+      "category": "Face Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/370731/l-oreal-paris-revitalift-night-cream-48-g-90-13_8_display_1699942385_2ab9ea5d.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 105
+      }
+    },
+    {
+      "id": 11,
+      "title": "Brightening Eye Cream",
+      "price": 29.99,
+      "description": "An eye cream that brightens and reduces puffiness around the eyes.",
+      "category": "Eye Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/351150/good-vibes-seaweed-and-green-tea-dark-circle-reducer-under-eye-gel-15-ml-17_1_display_1702628828_2bdbf470.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 130
+      }
+    },
+    {
+      "id": 12,
+      "title": "Exfoliating Scrub",
+      "price": 19.99,
+      "description": "An exfoliating scrub that removes dead skin cells and reveals a fresh complexion.",
+      "category": "Face Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/377210/lotus-herbals-apri-scrub-fresh-apricot-scrub-180-g-14_1_display_1678437281_656ce129.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 160
+      }
+    },
+    {
+      "id": 13,
+      "title": "Hydrating Face Mist",
+      "price": 15.99,
+      "description": "A refreshing face mist that hydrates and revitalizes the skin throughout the day.",
+      "category": "Face Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/144898/plum-green-tea-revitalizing-face-mist-100-ml_1_display_1721886303_0aff1641.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 140
+      }
+    },
+    {
+      "id": 14,
+      "title": "Volumizing Hair Spray",
+      "price": 21.99,
+      "description": "A hair spray that adds volume and holds your hairstyle in place.",
+      "category": "Hair Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/371005/alps-goodness-rosemary-water-100ml-rosemary-water-for-hair-hair-spray-for-hair-growth-1_1_display_1724156257_c7dec412.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 90
+      }
+    },
+    {
+      "id": 15,
+      "title": "Smoothing Body Lotion",
+      "price": 24.99,
+      "description": "A body lotion that smooths and hydrates the skin for a soft feel.",
+      "category": "Body Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/347739/good-vibes-rose-cooling-gel-body-lotion-210-ml_1_display_1686036391_e32a0a88.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 110
+      }
+    },
+    {
+      "id": 16,
+      "title": "Toning Face Lotion",
+      "price": 22.99,
+      "description": "A face lotion that tones and tightens the skin, leaving it refreshed.",
+      "category": "Face Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/366686/ny-bae-pro-strobe-cream-pink-topaz-12gm-50-46_8_display_1698997608_9b3c1bd4.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 125
+      }
+    },
+    {
+      "id": 17,
+      "title": "Creamy Blush",
+      "price": 18.99,
+      "description": "A creamy blush that blends seamlessly for a natural flush of color.",
+      "category": "Face Makeup",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/373380/insight-cosmetics-super-stay-cream-blush-rose-jelly-10-gm_1_display_1695877280_b09c7e36.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 95
+      }
+    },
+    {
+      "id": 18,
+      "title": "Gentle Cleansing Oil",
+      "price": 27.99,
+      "description": "A cleansing oil that removes makeup and impurities while nourishing the skin.",
+      "category": "Face Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/381382/plum-green-tea-pore-cleansing-face-wash-for-oily-skin-with-glycolic-acid-fights-acne-controls-excess-oil-removes-dead-skin-cells-gentle-and-non-drying-women-and-men-100-percentage-vegan-150-ml_1_display_1719405031_15181aea.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 140
+      }
+    },
+    {
+      "id": 19,
+      "title": "Brightening Vitamin C Serum",
+      "price": 44.99,
+      "description": "A serum enriched with Vitamin C to brighten and even out skin tone.",
+      "category": "Face Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/352116/good-vibes-vitamin-c-and-b3-skin-glow-face-serum-brightening-anti-ageing-with-orange-no-parabens-no-sulphates-no-animal-testing-30-ml-1-17_1_display_1716467686_e26e172f.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 110
+      }
+    },
+    {
+      "id": 20,
+      "title": "Rich Hydrating Mask",
+      "price": 32.99,
+      "description": "A hydrating mask that deeply moisturizes and rejuvenates the skin.",
+      "category": "Face Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-@@mediafiles@@mailers@@banners@@1659451450_new-tag.png,w-115,lfo-top_right,l-end,dpr-2/static/img/product/301683/faces-canada-all-day-hydra-matte-foundation-i-3-in-1-matte-foundation-moisturizer-spf-30i-24-hr-aloe-hydration-and-vitamin-c-no-parabens-i-rich-ivory-013_1_display_1708506484_e7c6d7a6.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 120
+      }
+    },
+    {
+      "id": 21,
+      "title": "Pore Minimizing Primer",
+      "price": 20.99,
+      "description": "A primer that minimizes the appearance of pores and creates a smooth base for makeup.",
+      "category": "Face Makeup",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/346640/ny-bae-brightenin-primer-15-g-4-in-1-face-primer-illuminates-preps-protects-nourishes-gold-and-vitamin-e-lightweight-radiant-finish_8_display_1713414130_ca09a52e.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 105
+      }
+    },
+    {
+      "id": 22,
+      "title": "Glowing Tinted Moisturizer",
+      "price": 27.99,
+      "description": "A tinted moisturizer that provides a natural glow and light coverage.",
+      "category": "Face Makeup",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/367060/ny-bae-korean-glow-skin-combo-highlighter-foundation-skin-tint-moisturizer-glowy-finish-deep-skin-everyday-makeup-kit-1_1_display_1696609857_eff42be5.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 90
+      }
+    },
+    {
+      "id": 23,
+      "title": "Luxe Lipstick",
+      "price": 22.99,
+      "description": "A luxurious lipstick with a creamy texture and intense color payoff.",
+      "category": "Lip Makeup",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/346180/faces-canada-matte-addiction-lipstick-poetic-peach-02-3-5g_1_display_1715680034_9d314059.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 125
+      }
+    },
+    {
+      "id": 24,
+      "title": "Refreshing Face Cleanser",
+      "price": 16.99,
+      "description": "A gentle face cleanser that removes impurities and refreshes the skin.",
+      "category": "Face Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/348925/good-vibes-glow-toner-cucumber-120-ml_1_display_1718710397_ebddca7f.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 150
+      }
+    },
+    {
+      "id": 25,
+      "title": "Long-Lasting Eyeliner",
+      "price": 18.99,
+      "description": "An eyeliner that delivers precise lines and stays put all day.",
+      "category": "Eye Makeup",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-Best_seller_700x700base_gUMVzNGWt_.png,lfo-top_right,l-end,dpr-2/static/img/product/351357/faces-magneteyes-eyeliner-black-01-3-5-ml-39_2_display_1709118617_c0d5549a.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 135
+      }
+    },
+    {
+      "id": 26,
+      "title": "Deep Conditioning Hair Mask",
+      "price": 29.99,
+      "description": "A nourishing hair mask that deeply conditions and revitalizes dry hair.",
+      "category": "Hair Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/244825/plum-olive-and-macadamia-mega-moisturizing-hair-mask-250-ml-75_1_display_1709887456_dca5ed20.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 105
+      }
+    },
+    {
+      "id": 27,
+      "title": "Exquisite Nail Polish",
+      "price": 12.99,
+      "description": "A high-quality nail polish that provides a glossy finish and long-lasting wear.",
+      "category": "Nail Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-Best_seller_700x700base_gUMVzNGWt_.png,lfo-top_right,l-end,dpr-2/static/img/product/311697/faces-canada-ultime-pro-splash-nail-enamel-i-quick-drying-i-longlasting-i-chip-defiant-i-smooth-application-i-midnight-140-5ml_5_display_1712233174_26df2be8.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 140
+      }
+    },
+    {
+      "id": 28,
+      "title": "Silky Body Scrub",
+      "price": 23.99,
+      "description": "A body scrub that exfoliates and leaves your skin feeling silky smooth.",
+      "category": "Body Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/380191/mcaffeine-blueberry-breeze-body-scrub-175-gm_1_display_1717481274_5bc5421d.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 115
+      }
+    },
+    {
+      "id": 29,
+      "title": "Brightening Eye Gel",
+      "price": 25.99,
+      "description": "An eye gel that brightens and refreshes tired eyes.",
+      "category": "Eye Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-@@mediafiles@@mailers@@banners@@1659451450_new-tag.png,w-115,lfo-top_right,l-end,dpr-2/static/img/product/338934/good-vibes-vitamin-c-anti-blemish-glow-under-eye-gel-15-ml_1_display_1704711274_f4bfb5c6.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 130
+      }
+    },
+    {
+      "id": 30,
+      "title": "Daily Sun Protection SPF 50",
+      "price": 28.99,
+      "description": "A broad-spectrum sunscreen that protects against UV rays and prevents skin damage.",
+      "category": "Sun Care",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/343877/vitamin-c-daily-glow-sunscreen-with-vitamin-c-and-turmeric-for-sun-protection-and-glow-50-g-33_10_display_1719221139_b9182d38.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 160
+      }
+      },
+        {
+          "id": 31,
+          "title": "Charcoal Mask",
+          "price": 19.99,
+          "description": "A deep-cleansing charcoal mask that helps to detoxify and purify your skin.",
+          "category": "Skincare",
+          "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/353183/good-vibes-peel-off-mask-charcoal-100-g-16-12-26-13_1_display_1724312401_a2b8ab91.jpg",
+          "rating": {
+            "rate": 4.5,
+            "count": 120
+          }
+        },
+        {
+          "id": 32,
+          "title": "Moisturizing Cream",
+          "price": 24.99,
+          "description": "A hydrating cream that provides long-lasting moisture and improves skin texture.",
+          "category": "Skincare",
+          "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/327612/dot-and-key-ceramides-and-hyaluronic-hydrating-face-cream-with-probiotic-i-barrier-repair-for-dry-skin-100g_2_display_1722249845_2c28ab91.jpg",
+          "rating": {
+            "rate": 4.7,
+            "count": 85
+          }
+        }
+      ]
+      
+  
